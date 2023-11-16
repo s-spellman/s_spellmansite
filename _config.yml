@@ -7,7 +7,6 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
 # If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
@@ -37,7 +36,7 @@ menu:
    url: /teaching/
  - title: CV  
 # Build settings
-theme: jekyll-theme-hydejack
+remonte_theme: hydecorp/hydejack
 plugins:
   - jekyll-feed
 
