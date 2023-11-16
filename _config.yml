@@ -21,11 +21,10 @@ title: Sam Spellman
 email: sspellman@albany.edu
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "s_spellmansite" # the subpath of your site, e.g. /blog
-url: ""# the base hostname & protocol for your site, e.g. http://example.com
+url: "" #the base hostname & protocol for your site, e.g. http://example.com
 github_username:  s-spellman
 
 logo: /images/me.jpg
--size:
 
 menu:
  - title: About Me
@@ -35,8 +34,8 @@ menu:
  - title: Teaching
    url: /teaching/
  - title: CV  
- -title: Contact
- 	url: /contact/
+ - title: Contact
+   url: /contact/
 # Build settings
 remote_theme: hydecorp/hydejack@v9
 plugins:
