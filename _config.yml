@@ -36,7 +36,7 @@ menu:
    url: /teaching/
  - title: CV  
 # Build settings
-remonte_theme: hydecorp/hydejack
+remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-feed
 
