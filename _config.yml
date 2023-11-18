@@ -33,10 +33,11 @@ menu:
    url: /research/
  - title: Teaching
    url: /teaching/
- - title: CV  
- - title: Contact
-   url: /contact/
+ - title: CV
+   url: /CV/  
 # Build settings
+
+#theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 plugins:
   - jekyll-default-layout
@@ -123,3 +124,30 @@ compress_html:
 
 sass:
   style:               compressed
+  
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      layout: post
+      description: > 
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+    posts:
+      layout: post
+      description: > 
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+    projects:
+      layout: project
+      description: > 
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+      links:
+        - title: Project Link
+          url: https://example.com  

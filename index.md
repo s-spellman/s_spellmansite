@@ -2,5 +2,8 @@
 layout: about
 cover: true
 ---
-
-![Type A Kirillov-Reshitikhin Crystal](/images/crystal.png)
+<figure>
+    <img src="/images/crystal.png"
+         alt="Kirillov-Reshetikhin Crystal">
+    <figcaption>A tensor product of type A<sub>3</sub> Kirillov-Reshetikhn crystals</figcaption>
+</figure>

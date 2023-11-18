@@ -14,7 +14,19 @@ gem "jekyll", "~> 4.1"
 gem "jekyll-theme-hydejack", "~> 9.1"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-default-layout"
+  gem "jekyll-optional-front-matter"
+  gem "jekyll-paginate"
+  gem "jekyll-readme-index"
+  gem "jekyll-redirect-from"
+  gem "jekyll-relative-links"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-titles-from-headings"
+  gem "jekyll-include-cache"
+  gem "jekyll-feed"
+  gem "jekyll-last-modified-at"
+  gem "jekyll-compose"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
