@@ -13,7 +13,7 @@ My research interests span the areas of algebraic combinatorics and representati
  
 Previously, I completed my Master's degree (M.S) in mathematics at the University of New Hampshire and obtained my Bachelor's degree (B.A) in mathematics at Colorado College.
 {:.lead}
-Outside of mathematics I enjoy cooking. Finding new ingredients to try and searching for the best food everywhere I go brings unique flavors into my life.
+My interests outside of mathematics include taking long walks through forests, playing jazz bass, and cooking. Finding new ingredients to try and searching for the best food everywhere I travel helps bring unique flavors into my life.
 {:.lead}
 
 sspellman [at] albany [dot] edu
