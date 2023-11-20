@@ -3,6 +3,6 @@ layout: page
 title: CV
 ---
 
- [CV](/SamSpellmanCV.pdf)
+ [My CV](/SamSpellmanCV.pdf)
  {:.lead}
 
