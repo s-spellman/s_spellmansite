@@ -11,7 +11,7 @@ Development of a "non-symmetic" version of the *quantum alcove model* to describ
 {:.lead} 
 ## Publications, Presentaions, and Preprints
 ---
-- **November 2023** Submitted extended abstract *On combinatorial models for affine Demazure crystals of levels zero and one* to FPSAC 2024
+- **November 2023** Submitted extended abstract *On combinatorial models for affine Demazure crystals of levels zero and one* to the International Conference on Formal Power Series and Algebraic Combinatorics 2024 2024
 - **April 2023** Poster presentation at Women in Algebra and Combinatorics Conference in Albany, NY [(poster)](/AWMposter.pdf) 
 - **March 2023** Presented at the Graduate Student Combinatorics Conference in St. Louis, MO [(slides)](/GSCC2023slides.pdf)
  
