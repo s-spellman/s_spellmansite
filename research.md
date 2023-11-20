@@ -3,7 +3,7 @@ layout: about
 permalink: /research/
 title: Research
 ---
-[research statement](/ResearchStatement.pdf)
+[Research Statement](/ResearchStatement.pdf)
 ## Current Project
 
 ---
