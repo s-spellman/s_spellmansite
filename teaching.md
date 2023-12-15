@@ -14,7 +14,7 @@ Mathematics is a difficult subject that requires a strong foundation and logical
 
 [Teaching Statement](/TeachingStatement.pdf)
 
-[Lumen Belonging and Inclusive Teaching Practices](/images/Lumencertificate.pdf)
+[Lumen Belonging and Inclusive Teaching Practices](/images/LumenCertificate.pdf)
 
 ## Courses Taught
 ---
