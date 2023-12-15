@@ -12,7 +12,10 @@ Mathematics is a difficult subject that requires a strong foundation and logical
 - Get a glimpse of what higher-level mathematics looks like.
 - See multiple ways to tackle a problem.
 
-[Teaching Statement] /TeachingStatement.pdf
+[Teaching Statement](/TeachingStatement.pdf)
+
+[Lumen Belonging and Inclusive Teaching Practices](/images/Lumencertificate.pdf)
+
 ## Courses Taught
 ---
 - Calculus II (spring 2024)
