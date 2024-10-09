@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
 
-copyright:             © 2024 Sam Spellman. All rights reserved.
+copyright:             © 2024 Samuel Spellman. All rights reserved.
 
 accent_image:          /images/background.jpg
 accent_color:          rgb(110,40,12)
