@@ -19,7 +19,7 @@ Mathematics is a difficult subject that requires a strong foundation and logical
 ## Courses Taught
 ---
 - Calculus II (spring 2024)
-- Calculus I (fall 2023, fall 2022)
+- Calculus I (fall 2024, 2023, and 2022)
 - Statistics (spring 2022)
-
+- Precalculus (fall 2024 and fall 2021)
 
