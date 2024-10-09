@@ -3,9 +3,9 @@ layout: about
 title: ""
 permalink: ""
 image:
-path: /images/crystal.png
-    srcset:
-      480w: /images/crystal.png
+  path: /images/crystal.png
+  srcset:
+  480w: /images/crystal.png
 cover: true
 ---
 
