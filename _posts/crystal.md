@@ -9,5 +9,5 @@ image:
 cover: true
 ---
 
-![Tensor product of type A Kirillov-Reshetikhin crystals](./images/crystal.png){:width="50%"}  
+![Tensor product of type A Kirillov-Reshetikhin crystals](/images/crystal.png){:width="50%"}  
 
