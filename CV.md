@@ -5,7 +5,7 @@ title: CV
 ---
 
 <figure>
-    <img src="./SpellmanCV.pdf" alt="">
+    <img src="/SpellmanCV.pdf" alt="CV">
 </figure>
 
  [CV](/SpellmanCV.pdf)
