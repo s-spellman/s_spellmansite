@@ -2,7 +2,11 @@
 layout: page
 title: CV
 ---
-[SpellmanCV.pdf](https://github.com/user-attachments/files/17300943/SpellmanCV.pdf)
+
+<figure>
+    <img src="./SpellmanCV.pdf" alt="">
+</figure>
+
  [CV](/SpellmanCV.pdf)
  {:.lead}
 
