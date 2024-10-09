@@ -24,7 +24,7 @@ baseurl: 's_spellmansite' # the subpath of your site, e.g. /blog
 url: 'https://s-spellman.github.io/' #the base hostname & protocol for your site, e.g. http://example.com
 github_username:  s-spellman
 
-logo: /images/me.jpg
+logo: ./images/me.jpg
 
 menu:
  - title: About Me
