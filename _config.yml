@@ -34,10 +34,9 @@ menu:
  - title: Teaching
    url: /teaching/
  - title: CV
-   url: /CV/
+   url: /CV/  
  - title: Contact
    url: /contact/
- 
 # Build settings
 
 #theme: jekyll-theme-hydejack
