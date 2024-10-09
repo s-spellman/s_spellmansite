@@ -20,8 +20,8 @@
 title: Sam Spellman
 email: sspellman@albany.edu
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "s_spellmansite" # the subpath of your site, e.g. /blog
-url: "" #the base hostname & protocol for your site, e.g. http://example.com
+baseurl: 's_spellmansite' # the subpath of your site, e.g. /blog
+url: 'https://s-spellman.github.io/' #the base hostname & protocol for your site, e.g. http://example.com
 github_username:  s-spellman
 
 logo: /images/me.jpg
